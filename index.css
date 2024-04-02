@@ -1,0 +1,23 @@
+/* Write your code here. */
+.bg-container {
+  color: black;
+  font-family: 'Roboto';
+  max-width: 70%;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.12);
+}
+.heading {
+  font-family: 'Roboto';
+  text-align: center;
+}
+.images {
+  background-color: #0f172a;
+  width: 150px;
+  padding: 10px;
+  color: white;
+}
+.images1 {
+  background-color: #f8fafc;
+  width: 150px;
+  padding: 10px;
+  color: black;
+}
